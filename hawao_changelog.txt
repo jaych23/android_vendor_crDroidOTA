@@ -1,5 +1,5 @@
 Highlights & Device Specific Changes:
-Build type: Monthly / Beta
+Build type: BETA
 Device: Motorola G42 (hawao)
 Device maintainer: Jay (Dhruv)
 
